@@ -1,7 +1,7 @@
 
 # Plug Tech E-commerce Sales Analysis
 
-![Description of image](pic/Logo.png)
+![Description of image](pic/Companylogo1.png)
 
 # Company Introduction
 
