@@ -89,7 +89,15 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 #### C. Seasonal Trend
 
 
+**December** consistently generating the highest revenue ($2.85M) and highest order volume (10,791 orders). This strongly suggests a holiday-driven demand cycle. 
 
+**November** also showed strong recovery, with revenue growth of 18% and order growth of 24%, reinforcing that Q4 is the company’s most important commercial period. From a business standpoint, Plug Tech appears highly dependent on year-end sales momentum, meaning inventory planning, fulfillment capacity, and marketing investment during Q4 are likely critical to annual performance.
+  
+**September–October** showed strong transaction quality, even if not always the highest volume months. AOV peaked in October ($272) and remained strong throughout the fall season (Aug–Oct). This indicates that customers may purchase higher-value products during this period, possibly premium electronics or larger-ticket items. For the business, fall appears to be a high-value sales window, not just a high-volume one.
+
+**February** was the weakest-performing month, with the lowest revenue ($1.91M) and significant declines in both revenue (-25%) and orders (-27%). This suggests a post-holiday demand drop, which is common in e-commerce after peak seasonal spending. 
+
+Similarly, **October** showed an unusual contradiction: it recorded the highest AOV, but one of the lowest order counts (7,212) and the sharpest monthly declines in revenue (-28%) and orders (-29%). This indicates fewer but higher-value purchases, suggesting revenue was supported by premium transactions rather than broad customer demand.
 
 ### Regional Performance
 
