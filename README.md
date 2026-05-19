@@ -84,9 +84,11 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 
 #### B. Monthly Trend
 
+<img src="pic/Monthly%20Trend.png" alt="Monthly Trend" width="900">
 
 
-#### C. Seasonal Trend
+
+
 
 
 **December** consistently generating the highest revenue ($2.85M) and highest order volume (10,791 orders). This strongly suggests a holiday-driven demand cycle. 
@@ -98,6 +100,12 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 **February** was the weakest-performing month, with the lowest revenue ($1.91M) and significant declines in both revenue (-25%) and orders (-27%). This suggests a post-holiday demand drop, which is common in e-commerce after peak seasonal spending. 
 
 Similarly, **October** showed an unusual contradiction: it recorded the highest AOV, but one of the lowest order counts (7,212) and the sharpest monthly declines in revenue (-28%) and orders (-29%). This indicates fewer but higher-value purchases, suggesting revenue was supported by premium transactions rather than broad customer demand.
+
+
+#### C. Seasonal Trend
+
+
+
 
 ### Regional Performance
 
