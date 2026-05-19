@@ -1,5 +1,8 @@
 
 # Plug Tech E-commerce Sales Analysis
+
+![Description of image](pic/Logo.png)
+
 # Company Introduction
 
 Founded in 2018, Plug Tech is a global e-commerce company specializing in consumer electronics products. The company sells popular brands such as Apple, Samsung, and Lenovo through its online platform and serves customers across multiple regions. To support growth, Plug Tech uses several marketing channels, including email campaigns, search engine optimization (SEO), and affiliate partnerships. As the business expands, management aims to better understand sales performance, customer behavior, and operational challenges to improve overall business performance.
