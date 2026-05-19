@@ -51,11 +51,11 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 <img src="pic/ERD.png" alt="ERD" width="700">
 </details>
 
-## Executive Summary
+## 1. Executive Summary
 
 <img src="pic/Revenue%20Growth.png" alt="Revenue Growth" width="800">
 
-## Key Insights
+## 2. Key Insights
 
 ### Time-Based Sales Trends
 
@@ -113,9 +113,53 @@ Similarly, **October** showed an unusual contradiction: it recorded the highest 
 
 - Regional performance varied across markets. Although Japan contributed a smaller share of total revenue, it recorded the highest average order value (AOV), indicating stronger per-transaction customer value. This suggests that Plug Tech may benefit from strengthening premium product positioning and targeted growth strategies in high-value markets such as Japan.
 
+### Refund & Customer Experience Analysis
+
+
+
 ### Loyalty Program
 
 
+## 3. Recommendations
+
+### Recommendations To Marketing Team
+
+- **Launch Q4 and Back-to-School Campaigns Earlier**: December, January, and September consistently showed the **highest revenue and order count**. Launching campaigns earlier in these months can extend the peak momentum months and capture early spenders ahead of competitors. 
+- **Maintain Engagement in Low Performing Months (Feb, June)**: February and June averaged **less than $2M in revenue** and **under 7.3K orders** compared to the average of $2.3M and 9K orders. Deploying clearance sales, training campaigns, or pilots in these months can reduce revenue troughs and keep customers engaged.
+
+- **Boost Promotion for High-AOV Underperformers (e.g., Apple iPhone)**: Despite a **high AOV of $741**, the Apple iPhone made up just **0.8% of total revenue**. With tailored email campaigns or time-sensitive bundles, this product could generate stronger ROI and leverage its premium pricing.
+
+- **Capitalize on Japan's High AOV ($393)**: Japan has the **highest AOV** among the top 5 revenue-generating countries, yet contributes just **2% of orders**. Regionalized campaigns and localized messaging could convert this high-margin market into a more consistent revenue driver.
+
+- **Improve Loyalty Program Engagement**: **Loyalty order count and sales fell by 43% and 44%**, respectively, in 2022, with loyalty sales dipping **below non-loyalty sales in September**. Promoting exclusive perks, early access to bestsellers, and personalized discounts may boost adoption and re-engage loyalty customers.
+
+### Recommendations To Product Team
+
+- **Prioritize High-Revenue, High-Growth Products (e.g., Gaming Monitor, AirPods)**: **Gaming Monitors alone drove $9.9M in revenue** with a **strong AOV of $421** and a **moderate refund rate of 6%**, indicating low risk and strong ROI. Similarly, Apple AirPods performed well and are ideal for targeted promotion.
+  
+- **Deprioritize Bose SoundSport**: The Bose SoundSport drove only **$3K in revenue**. This product should be deprioritized or reassessed for repositioning. Resources may be better allocated to higher-performing items.
+
+- **Address High Refund Rates (e.g., MacBook Air)**: The MacBook Air had a **refund rate of 11.4%**, resulting in **$719K in lost revenue**. High return rates may indicate product misalignment or fulfillment issues that warrant investigation and intervention.
+  
+- **Model Refund Impact on Long-Term Revenue**: Refund-prone products such as the MacBook Air affect not just immediate sales but long-term value through reduced retention. Modeling this impact can inform pricing, bundling, and discontinuation decisions.
+  
+- **Recover Missing Refund Data (Aug 2021–2022)**: The **absence of refund data for 12+ months** limits visibility into product performance and impacts refund trend modeling, inventory planning, and loss prevention. Collaboration with the data team is needed to investigate and fill this gap.
+
+### Recommendations to Sales Team
+
+- **Analyze Revenue & AOV Decline Post-2020**: Revenue fell from **$10M in 2020 to $5M in 2022**, and AOV declined from **$300 to $230**. This suggests shifting consumer behavior or market saturation. Deeper sales funnel analysis could identify areas for revitalization.
+  
+- **Pursue High-AOV Opportunity in Japan ($393 AOV)**: Collaborating with Marketing could turn Japan into a high-margin growth region by using localized ads, translated content, and regional partnerships to boost order count.
+
+- **Protect Core Markets**: **US, GB, CA, JP, DE generate over 66% of total revenue**. Sustaining this share requires consistent stock availability, targeted promotions, and a frictionless customer experience.
+
+### Recommendations Across Teams
+
+- **Promote Value-Oriented Growth (AOV Focus)**: While **order volume grew 22.3% YoY**, AOV rose only **1.9%**. Cross-functional strategies like upselling, tiered pricing, and product personalization can help rebalance growth quality.
+
+- **Diversify Market Exposure Beyond U.S. (47% of Sales)**: Australia, while contributing many orders, has an **AOV of $204**. Bundling accessories or offering upsells at checkout could increase value per transaction and reduce overreliance on the U.S. market.
+
+- **Evaluate Loyalty Program ROI**: The data does not provide enough evidence to make a conclusive decision about keeping the loyalty program. The **reversal in 2021–2022 suggests growing engagement**, but the **late 2022 trend reversal** highlights the need for ongoing performance monitoring using real-time tracking and segmented reporting. Cross-functional teams should assess **CAC and retention rates** between loyalty and non-loyalty users to clarify the program's financial value.
 
 
 
