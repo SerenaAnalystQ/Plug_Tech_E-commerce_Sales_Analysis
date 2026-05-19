@@ -35,22 +35,11 @@ While order volume remained high, leadership identified several concerns:
 <summary><strong>Stakeholder Questions</strong></summary>
 <br /> 
 
-<div>1. How is the business performing over time?</div>
-
-<div>→ revenue, order count, AOV</div>
-
-<div>2. Did the loyalty program contribute to stronger customer value and purchasing behavior?
+1. How is the business performing over time?
+2. Did the loyalty program contribute to stronger customer value and purchasing behavior?
+3. Which products contributed most to sales performance across markets?
+4. Which marketing channels attracted the most valuable customers?
   
-<div>→ loyalty vs non-loyalty, AOV, repeat orders, revenue contribution
-
-<div>3. Which products contributed most to sales performance across markets?
-  
-<div>→ top products by revenue/orders
-
-<div>4. Which marketing channels attracted the most valuable customers?
-  
-<div>→ revenue, order count, AOV, refund rate
-
 </details>
 
 
@@ -95,7 +84,7 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 
 **November** also showed strong recovery, with revenue growth of 18% and order growth of 24%, reinforcing that Q4 is the company’s most important commercial period. From a business standpoint, Plug Tech appears highly dependent on year-end sales momentum, meaning inventory planning, fulfillment capacity, and marketing investment during Q4 are likely critical to annual performance.
   
-**September–October** showed strong transaction quality, even if not always the highest volume months. AOV peaked in October ($272) and remained strong throughout the fall season (Aug–Oct). This indicates that customers may purchase higher-value products during this period, possibly premium electronics or larger-ticket items. For the business, fall appears to be a high-value sales window, not just a high-volume one.
+**September–October** showed strong transaction quality, even if not always the highest volume months. AOV peaked in October ($272) and remained strong throughout the fall season. This indicates that customers may purchase higher-value products during this period, possibly premium electronics or larger-ticket items. For the business, fall appears to be a high-value sales window, not just a high-volume one.
 
 **February** was the weakest-performing month, with the lowest revenue ($1.91M) and significant declines in both revenue (-25%) and orders (-27%). This suggests a post-holiday demand drop, which is common in e-commerce after peak seasonal spending. 
 
@@ -104,13 +93,21 @@ Similarly, **October** showed an unusual contradiction: it recorded the highest 
 
 #### C. Seasonal Trend
 
+- Plug Tech showed moderate seasonal variation. Revenue, refund rates and broader regional performance remained relatively stable, suggesting that seasonality had limited impact on customer refund behavior and geographic demand patterns.
 
+- **Winter** was still the strongest-performing season, generating the highest revenue ($7.32M) and order volume (28,039), suggesting increased customer demand during year-end periods, likely influenced by holiday shopping and promotions.
 
+- **Autumn** generated the highest-value transactions. recorded the highest AOV at $266.38 despite having the lowest order count, indicating stronger revenue efficiency and a higher-value product mix during this period.
 
 ### Regional Performance
 
+- North America was Plug Tech’s strongest-performing region, contributing 52% of total revenue and over half of total orders. While this highlights strong market demand, it also creates geographic concentration risk. To improve long-term stability, Plug Tech should reduce overreliance on North America by expanding growth efforts in underpenetrated markets such as APAC and LATAM.
 
+- Regional performance was primarily driven by order volume rather than customer spending behavior. Although average order value (AOV) remained relatively stable across regions, North America and EMEA generated significantly higher sales due to stronger transaction volume. This suggests that improving customer acquisition and market penetration in lower-volume regions such as LATAM and APAC may support more balanced long-term growth.
 
+- LATAM showed the weakest commercial performance across all regions, contributing only 6% of total revenue while recording the lowest order volume and AOV. This may indicate lower market penetration or weaker customer demand. To support long-term growth, Plug Tech could evaluate targeted expansion strategies and localized marketing efforts to strengthen performance in this underdeveloped market.
+
+- Regional performance varied across markets. Although Japan contributed a smaller share of total revenue, it recorded the highest average order value (AOV), indicating stronger per-transaction customer value. This suggests that Plug Tech may benefit from strengthening premium product positioning and targeted growth strategies in high-value markets such as Japan.
 ### Loyalty Program
 
 
