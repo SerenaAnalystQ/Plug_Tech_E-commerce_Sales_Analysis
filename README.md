@@ -71,7 +71,17 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 
 #### A. Yearly Trend
 
+
+
+
 #### B. Monthly Trend
+
+- The company experienced strong growth in 2020, where revenue increased significantly from **$3.9M to $10.2M**, supported by both higher order volume and AOV. This suggests that the business was not only acquiring more customers, but also generating higher-value transactions, likely driven by stronger demand or a favorable product mix.
+
+- In 2021, order count continued to grow and reached its highest level at 35,858 orders. However, despite this increase in transaction volume, total revenue declined by 10%, while AOV fell from $300 to $255. This indicates that business growth became increasingly volume-driven rather than value-driven. Customers were still purchasing, but they were spending less per order, which may suggest a shift toward lower-priced products, reduced premium sales, or changing customer purchasing behavior.
+
+- By 2022, the business showed a significant slowdown. Revenue dropped by 46%, order volume declined by 40%, and AOV returned to $230, matching 2019 levels. This suggests weakening demand and reduced transaction quality.
+
 
 #### C. Seasonal Trend
 
