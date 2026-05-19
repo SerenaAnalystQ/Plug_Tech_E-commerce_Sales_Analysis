@@ -1,7 +1,7 @@
 
 # Plug Tech E-commerce Sales Analysis
 
-![Description of image](pic/Companylogo1.png)
+![Company Logo](pic/Company%20logo1.png)
 
 # Company Introduction
 
@@ -19,3 +19,8 @@ Do shipping delays affect customer satisfaction?
 Which marketing channels attract valuable customers?
 
 How has the new loyalty program performed? Should we keep it? 
+
+
+# Dataset Structure and ERD (Entity relationship diagram)
+
+
