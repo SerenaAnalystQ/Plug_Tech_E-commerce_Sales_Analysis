@@ -59,11 +59,12 @@ While order volume remained high, leadership identified several concerns:
 <br /> 
 Plug Tech's database structure consists of four tables: orders, customers, geo_lookup and order_status, including near 88,000 customers and over 108,000 transactions.
 <br /> 
-<img src="pic/ERD.png" alt="Revenue chart" width="700">
+<img src="pic/ERD.png" alt="ERD" width="700">
 </details>
 
 ## Executive Summary
 
+<img src="pic/Revenue%20Growth.png" alt="Revenue Growth" width="800">
 
 ## Key Insights
 
@@ -75,6 +76,8 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 
 
 #### B. Monthly Trend
+
+<img src="pic/Growth%20Trend.png" alt="Growth Trend" width="900">
 
 - The company experienced strong growth in 2020, where revenue increased significantly from **$3.9M to $10.2M**, supported by both higher order volume and AOV. This suggests that the business was not only acquiring more customers, but also generating higher-value transactions, likely driven by stronger demand or a favorable product mix.
 
