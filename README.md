@@ -101,6 +101,10 @@ Similarly, **October** showed an unusual contradiction: it recorded the highest 
 
 ### Regional Performance
 
+<img src="pic/Country%20List.png" alt="Country List" width="700">
+
+<img src="pic/Geographical%20Trend.png" alt="Geographical" width="700">
+
 - North America was Plug Tech’s strongest-performing region, contributing 52% of total revenue and over half of total orders. While this highlights strong market demand, it also creates geographic concentration risk. To improve long-term stability, Plug Tech should reduce overreliance on North America by expanding growth efforts in underpenetrated markets such as APAC and LATAM.
 
 - Regional performance was primarily driven by order volume rather than customer spending behavior. Although average order value (AOV) remained relatively stable across regions, North America and EMEA generated significantly higher sales due to stronger transaction volume. This suggests that improving customer acquisition and market penetration in lower-volume regions such as LATAM and APAC may support more balanced long-term growth.
@@ -108,6 +112,7 @@ Similarly, **October** showed an unusual contradiction: it recorded the highest 
 - LATAM showed the weakest commercial performance across all regions, contributing only 6% of total revenue while recording the lowest order volume and AOV. This may indicate lower market penetration or weaker customer demand. To support long-term growth, Plug Tech could evaluate targeted expansion strategies and localized marketing efforts to strengthen performance in this underdeveloped market.
 
 - Regional performance varied across markets. Although Japan contributed a smaller share of total revenue, it recorded the highest average order value (AOV), indicating stronger per-transaction customer value. This suggests that Plug Tech may benefit from strengthening premium product positioning and targeted growth strategies in high-value markets such as Japan.
+
 ### Loyalty Program
 
 
