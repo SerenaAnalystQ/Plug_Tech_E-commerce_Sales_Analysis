@@ -4,7 +4,7 @@
 ## Company Overview
 
 <p align="center">
-  <img src="pic/Company%20logo2.png" alt="Company Logo" width="700">
+  <img src="pic/Company%20logo2.png" alt="Company Logo" width="600">
 </p>
 
 **Plug Tech**, founded in 2018, is a global e-commerce retailer specializing in consumer electronics products. The company sells popular brands such as Apple, Samsung, and Lenovo through its online platform and serves customers across multiple regions including North America, Europe, Middle East & Africa, Asia-Pacific, and Latin America. 
