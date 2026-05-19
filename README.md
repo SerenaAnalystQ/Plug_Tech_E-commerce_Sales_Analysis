@@ -62,4 +62,30 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 <img src="pic/ERD.png" alt="Revenue chart" width="700">
 </details>
 
+## Executive Summary
+
+
+## Key Insights
+
+### Time-Based Sales Trends
+
+#### A. Yearly Trend
+
+#### B. Monthly Trend
+
+#### C. Seasonal Trend
+
+
+
+
+### Regional Performance
+
+
+
+### Loyalty Program
+
+
+
+
+
 
