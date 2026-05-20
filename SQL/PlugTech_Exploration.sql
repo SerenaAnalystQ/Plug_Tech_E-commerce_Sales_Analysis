@@ -1,13 +1,3 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--- OneStop Electronics has been collecting data on a variety of key elements, including orders, order statuses, customer information, products, and geographic data. 
--- However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
--- In cleaning and analyzing OneStop's data, meaningful insights can be extracted from the dataset to support the company’s various teams—including finance, sales, product, and marketing. 
-
--- Data spans from 2019-2022
-
--- NOTE: All data is fictional
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 -- Taking a look at the tables in our dataset
 
 ## Orders Table
