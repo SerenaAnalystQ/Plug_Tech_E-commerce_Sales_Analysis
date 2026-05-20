@@ -126,6 +126,10 @@ Similarly, **October** showed an unusual contradiction: it recorded the highest 
 ### Loyalty Program
 
 
+
+The loyalty program appears to positively influence customer value over time. While non-loyalty customers drove stronger short-term AOV peaks, loyalty customers showed more stable and gradually improving purchasing behavior, suggesting the program may contribute to stronger retention and long-term revenue quality.
+
+
 ## 3. Recommendations
 
 ### Recommendations To Marketing Team
