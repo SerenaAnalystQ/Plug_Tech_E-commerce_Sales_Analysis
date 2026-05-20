@@ -52,6 +52,27 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 <img src="pic/ERD.png" alt="ERD" width="700">
 </details>
 
+<details open>
+<summary><b>Table of Contents</b></summary>
+
+- [1. Executive Summary](#1-executive-summary)
+
+- [2. Key Insights](#2-key-insights)
+  - [Time-Based Sales Trends](#time-based-sales-trends)
+    - [A. Yearly Trend](#a-yearly-trend)
+    - [B. Monthly Trend](#b-monthly-trend)
+    - [C. Seasonal Trend](#c-seasonal-trend)
+  - [Regional Performance](#regional-performance)
+  - [Refund & Customer Experience Analysis](#refund--customer-experience-analysis)
+  - [Loyalty Program](#loyalty-program)
+
+- [3. Recommendations](#3-recommendations)
+  - [For Marketing Team](#for-marketing-team)
+  - [For Product Team](#for-product-team)
+
+</details>
+
+
 ## 1. Executive Summary
 
 <img src="pic/Revenue%20Growth.png" alt="Revenue Growth" width="800">
@@ -64,11 +85,11 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 
 <img src="pic/Growth%20Trend.png" alt="Growth Trend" width="900">
 
-- The company experienced strong growth in 2020, where revenue increased significantly from **$3.9M to $10.2M**, supported by both higher order volume and AOV. This suggests that the business was not only acquiring more customers, but also generating higher-value transactions, likely driven by stronger demand or a favorable product mix.
+- The company experienced strong growth in 2020, where revenue increased significantly from $3.9M to $10.2M, supported by both higher order volume and AOV. This suggests that the business was not only acquiring more customers, but also generating higher-value transactions, likely driven by stronger demand or a favorable product mix.
 
-- Despite order count continued growing in 2021 (+6%), total revenue declined by **10%** as AOV fell from **$300 to $255**. This indicates that business growth became increasingly volume-driven rather than value-driven. Customers were still purchasing, but they were spending less per order, which may suggest a shift toward lower-priced products, reduced premium sales, or changing customer purchasing behavior.
+- Despite order count continued growing in 2021 (+6%), **total revenue declined by 10%** as AOV fell from $300 to $255. This indicates that business growth became increasingly volume-driven rather than value-driven. Customers were still purchasing, but they were spending less per order, which may suggest a shift toward lower-priced products, reduced premium sales, or changing customer purchasing behavior.
 
-- By 2022, revenue dropped by **46%**, orders declined by **40%**, and AOV returned to **$230**, matching 2019 levels. This suggests weakening demand and reduced transaction quality. This may indicate a broader contraction in business performance that warrants further investigation into customer retention, product mix, or market conditions.
+- By 2022, **revenue dropped by 46%, orders declined by 40%**, and AOV returned to $230, matching 2019 levels. This suggests weakening demand and reduced transaction quality. This may indicate a broader contraction in business performance that warrants further investigation into customer retention, product mix, or market conditions.
 
 
 
@@ -102,11 +123,11 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 
 <img src="pic/Geographical%20Trend.png" alt="Geographical" width="700">
 
-- North America contributed 52% of total revenue, making it Plug Tech’s largest market but also creating geographic concentration risk.
+- **North America** contributed 52% of total revenue, making it Plug Tech’s largest market but also creating geographic concentration risk.
 
-- LATAM was the weakest region, contributing only 6% of revenue and the lowest AOV, indicating lower market penetration and growth maturity.
+- **Latin America** was the weakest region, contributing only 6% of revenue and the lowest AOV, indicating lower market penetration and growth maturity.
 
-- Japan recorded the highest AOV ($393) despite lower order volume, suggesting strong premium-product opportunities.
+- **Japan** recorded the highest AOV ($393) despite lower order volume, suggesting strong premium-product opportunities.
 
 
 Regional performance was primarily driven by order volume rather than customer spending behavior. This suggests that improving customer acquisition and market penetration in lower-volume regions such as LATAM and APAC may support more balanced long-term growth.
@@ -117,45 +138,48 @@ Regional performance was primarily driven by order volume rather than customer s
 
 <img src="pic/Refund%20Rate.png" alt="Refund Rate" width="700">
 
-- Plug Tech recorded a 5% refund rate (5,377 refunded orders), below common consumer electronics benchmarks (8–15%), indicating relatively healthy return performance.
+- Plug Tech recorded a **5% refund rate** (5,377 refunded orders), below common consumer electronics benchmarks **(8–15%)**, indicating relatively healthy return performance.
 
 - Refund exposure was concentrated in premium electronics, with Apple contributing 58% of refunds and ThinkPad/MacBook carrying the highest product-level return risk.
 
-- Refund rates remained relatively stable across geographic regions (APAC 5%, EMEA 5%, NA 5%, LATAM 4%), indicating that regional performance was not a major driver of refund behavior.
+- Refund rates remained relatively stable across geographic regions, indicating that regional performance was not a major driver of refund behavior.
 
 ### Loyalty Program
 
 <img src="pic/Loyalty%20Program.png" alt="Loyalty Program" width="700">
 
-The loyalty program appears to positively influence customer value over time. While non-loyalty customers drove stronger short-term AOV peaks, loyalty customers showed more stable and gradually improving purchasing behavior, suggesting the program may contribute to stronger retention and long-term revenue quality.
-
+- Loyalty AOV increased gradually over time, while Non-Loyalty AOV declined after 2020, suggesting stronger long-term customer value among enrolled members.
+- By mid-2021, Loyalty customers began outperforming Non-Loyalty customers in AOV, indicating improved spending consistency and stronger retention potential.
+- Although trends appear positive, loyalty ROI cannot be fully confirmed without retention, CAC, or repeat-purchase metrics.
 
 ## 3. Recommendations
 
 ### For Marketing Team
 
-- **Launch Q4 and Back-to-School Campaigns Earlier**: December, January, and September consistently showed the **highest revenue and order count**. Launching campaigns earlier in these months can extend the peak momentum months and capture early spenders ahead of competitors.
+- **Launch Q4 and Back-to-School Campaigns Earlier**: November, December, and September consistently showed strong revenue, order volume, and AOV performance. Starting promotions earlier could help capture demand sooner and extend peak sales momentum.
 
 - **Boost Promotion for High-AOV Underperformers (e.g., Apple iPhone)**: Despite a **high AOV of $741**, the Apple iPhone made up just **0.8% of total revenue**. With tailored email campaigns or time-sensitive bundles, this product could generate stronger ROI and leverage its premium pricing.
 
 - **Capitalize on Japan's High AOV ($393)**: Japan has the **highest AOV** among the top 5 revenue-generating countries, yet contributes just **2% of orders**. Regionalized campaigns and localized messaging could convert this high-margin market into a more consistent revenue driver.
 
-- **Improve Loyalty Program Engagement**: **Loyalty order count and sales fell by 43% and 44%**, respectively, in 2022, with loyalty sales dipping **below non-loyalty sales in September**. Promoting exclusive perks, early access to bestsellers, and personalized discounts may boost adoption and re-engage loyalty customers.
+- **Improve Loyalty Program Engagement**: Loyalty AOV improved gradually, suggesting better long-term customer value. However, loyalty performance weakened in late 2022. Marketing can improve engagement through promoting exclusive perks, early access to bestsellers, and personalized discounts may boost adoption and re-engage loyalty customers.
 
 ### For Product Team
 
-- **Address High Refund Rates (e.g., MacBook Air)**: The MacBook Air had a **refund rate of 11.4%**, resulting in **$719K in lost revenue**. High return rates may indicate product misalignment or fulfillment issues that warrant investigation and intervention.
+- **Investigate High-Refund Products (MacBook Air and ThinkPad)**: The MacBook Air had a refund rate of 11.4%, resulting in $719K in lost revenue. High return rates may indicate product misalignment or fulfillment issues that warrant investigation and intervention.
+- **Prioritize High-ROI Products**: Prioritize Gaming Monitors and Apple AirPods, which generated strong revenue with manageable refund risk. Increasing inventory support, bundling strategies, and promotional focus may maximize profitable growth.
+- **Reassess Low-Performing SKUs**: Low-performing products such as Bose SoundSport should be reassessed, as they contributed minimal revenue compared with other products. Reducing inventory or repositioning weaker SKUs could improve overall product mix efficiency.
   
 
 
 
 ### For Leadership / Strategy Team
 
-- **Pursue High-AOV Opportunity in Japan ($393 AOV)**: Collaborating with Marketing could turn Japan into a high-margin growth region by using localized ads, translated content, and regional partnerships to boost order count.
+- **Pursue High-AOV Opportunity in Japan ($393 AOV)**: Japan contributed a smaller share of total revenue, it recorded the highest Average Order Value (AOV) at $393, suggesting stronger willingness to spend on premium products. Exploring localized campaigns, region-specific offers, and premium product positioning in high-value markets like Japan to strengthen higher-margin revenue opportunities. 
 
-- **Evaluate Loyalty Program ROI**: The data does not provide enough evidence to make a conclusive decision about keeping the loyalty program. The **reversal in 2021–2022 suggests growing engagement**, but the **late 2022 trend reversal** highlights the need for ongoing performance monitoring using real-time tracking and segmented reporting. Cross-functional teams should assess **CAC and retention rates** between loyalty and non-loyalty users to clarify the program's financial value.
+- **Evaluate Loyalty Program ROI**: The loyalty program also showed positive long-term signals, as loyalty customers demonstrated stronger AOV stability than non-loyalty customers over time. However, since the dataset does not fully confirm overall program ROI, leadership should continue monitoring retention rate, repeat purchase behavior, customer lifetime value (CLV), and acquisition efficiency to determine whether the program should be maintained, optimized, or scaled further.
 
-- **Diversify Market Exposure Beyond U.S. (47% of Sales)**: Australia, while contributing many orders, has an **AOV of $204**. Bundling accessories or offering upsells at checkout could increase value per transaction and reduce overreliance on the U.S. market.
+- **Diversify Market Exposure Beyond North America**: North America contributing 52% of total revenue, but this heavy dependence also creates geographic concentration risk. To support more balanced long-term growth, leadership should expand growth efforts into underpenetrated markets such as APAC and LATAM, where increased market penetration could reduce overreliance on a single region and improve business resilience.
 
 
 
