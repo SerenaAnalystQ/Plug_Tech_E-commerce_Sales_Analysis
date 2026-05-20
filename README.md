@@ -187,3 +187,11 @@ Regional performance was primarily driven by order volume rather than customer s
 
 
 ## Appendix
+- Check out the full Excel [spreadsheet](Excel/cleaned_data.xlsx)
+  
+- For more details about the dataset description and cleaning process check out the [Dataset Summary & Issue Log](Excel/PlugTech_Dataset_Report.pdf)
+
+- See more of my [exploration](SQL/PlugTech_Exploration.sql) and [analysis](SQL/PlugTech_Analysis.sql) in SQL.
+
+
+- See more of my [exploration](your-link-here) and [analysis](your-link-here) in SQL
