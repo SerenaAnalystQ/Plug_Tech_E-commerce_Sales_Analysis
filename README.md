@@ -58,17 +58,12 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 - [1. Executive Summary](#1-executive-summary)
 
 - [2. Key Insights](#2-key-insights)
-  - [Time-Based Sales Trends](#time-based-sales-trends)
-    - [A. Yearly Trend](#a-yearly-trend)
-    - [B. Monthly Trend](#b-monthly-trend)
-    - [C. Seasonal Trend](#c-seasonal-trend)
+  - [Historical & Seasonal Trends](#Historical-&-Seasonal-Trends)
   - [Regional Performance](#regional-performance)
-  - [Refund & Customer Experience Analysis](#refund--customer-experience-analysis)
+  - [Refund & Customer Experience](#refund--customer-experience)
   - [Loyalty Program](#loyalty-program)
 
 - [3. Recommendations](#3-recommendations)
-  - [For Marketing Team](#for-marketing-team)
-  - [For Product Team](#for-product-team)
 
 </details>
 
@@ -79,7 +74,7 @@ Plug Tech's database structure consists of four tables: orders, customers, geo_l
 
 ## 2. Key Insights
 
-### Time-Based Sales Trends
+### Historical & Seasonal Trends
 
 #### A. Yearly Trend
 
@@ -134,7 +129,7 @@ Regional performance was primarily driven by order volume rather than customer s
 
 
 
-### Refund & Customer Experience Analysis
+### Refund & Customer Experience
 
 <img src="pic/Refund%20Rate.png" alt="Refund Rate" width="700">
 
