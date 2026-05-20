@@ -117,6 +117,11 @@ Similarly, **October** showed an unusual contradiction: it recorded the highest 
 
 <img src="pic/Refund%20Rate.png" alt="Country List" width="700">
 
+- Plug Tech recorded approximately 5,377 refunded orders out of 108,124 total transactions, resulting in an overall refund rate of roughly 5%, which is below common e-commerce consumer electronics benchmarks (typically 8–15%), suggesting relatively healthy return performance.
+- Refunds were highly concentrated by brand, with Apple accounting for 58% (3,111 refunds) and Gaming Monitor-related products contributing 27% (1,444 refunds), suggesting refund exposure is heavily dependent on a limited product portfolio.
+- At the product level, ThinkPad Laptop (12%) and MacBook Air (11%) generated the highest share of refunds, indicating premium electronics may carry higher return risk due to stronger customer expectations, product complexity, or post-purchase dissatisfaction.
+- Social Media showed the highest refund rate (8%), compared with Affiliate, Direct, and Email channels (all 5%), suggesting customers acquired through social campaigns may be lower-intent or less effectively targeted.
+- Refund rates remained relatively stable across geographic regions (APAC 5%, EMEA 5%, NA 5%, LATAM 4%), indicating that regional performance was not a major driver of refund behavior.
 
 ### Loyalty Program
 
