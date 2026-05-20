@@ -115,6 +115,7 @@ Similarly, **October** showed an unusual contradiction: it recorded the highest 
 
 ### Refund & Customer Experience Analysis
 
+<img src="pic/Refund%20Rate.png" alt="Country List" width="700">
 
 
 ### Loyalty Program
