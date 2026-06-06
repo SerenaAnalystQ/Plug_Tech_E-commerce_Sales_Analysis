@@ -13,7 +13,7 @@ Between **2019 and 2022**, Plug Tech experienced rapid growth in order volume an
 
 
 
-<details open>
+<details>
 <summary><strong>Business Context & Problem Statement</strong></summary>
 <br /> 
 Despite strong growth, Plug Tech began to observe uneven business performance across markets and customer segments.
