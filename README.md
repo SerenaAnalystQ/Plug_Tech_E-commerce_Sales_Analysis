@@ -1,24 +1,25 @@
 
 # Plug Tech E-Commerce Performance Analysis
 
-## Company Overview
+
+# Company Introduction
 
 <p align="center">
   <img src="pic/Company%20logo1.png" alt="Company Logo" width="600">
 </p>
 
-**Plug Tech**, founded in 2018, is a global e-commerce retailer specializing in consumer electronics products. The company sells popular brands such as Apple, Samsung, and Lenovo through its online platform and serves customers across multiple regions including North America, Europe, Middle East & Africa, Asia-Pacific, and Latin America. 
+Plug Tech is a global e-commerce retailer specializing in consumer electronics. Through its online platform, the company sells products from major technology brands such as Apple, Samsung, and Lenovo, serving customers across North America, EMEA, APAC, and Latin America.
 
-Between **2019 and 2022**, Plug Tech experienced rapid growth in order volume and product demand, supported by multiple marketing channels such as direct traffic, email marketing, social media, and affiliate partnerships. To strengthen customer retention and encourage repeat purchases, the company also introduced a **loyalty program** in 2019.
+This report analyzes Plug Tech’s e-commerce performance from 2019 to 2022, focusing on revenue trends, order activity, average order value, customer lifecycle behavior, regional performance, channel effectiveness, fulfillment experience, refund behavior, and loyalty program signals. The goal is to identify key growth drivers, business risks, and opportunities to improve customer value and operational performance.
 
 
 
 <details>
 <summary><strong>Business Context & Problem Statement</strong></summary>
 <br /> 
-Despite strong growth, Plug Tech began to observe uneven business performance across markets and customer segments.
+After strong growth in 2020, Plug Tech began to experience uneven business performance across years, regions, products, channels, and customer segments. Revenue declined after its 2020 peak, while changes in order volume, average order value, and weekly active purchasing customers suggest shifts in customer demand, product mix, and purchasing behavior
 
-While order volume remained high, leadership identified several concerns:
+Leadership identified several concerns:
 
 - Revenue fluctuations across years despite increasing transaction volume
 - Heavy dependence on a small number of products and regions
@@ -29,170 +30,225 @@ While order volume remained high, leadership identified several concerns:
 
 
 
-<details open>
+<details>
 <summary><strong>Stakeholder Questions</strong></summary>
 <br /> 
 
 1. How has Plug Tech’s business performance changed over time?
-2. Which regions and products contributed most to growth and business risk?
-3. How did refund behavior affect customer experience and revenue quality?
-4. Did the loyalty program improve long-term customer value?
-   
-</details>
+2. Is revenue decline driven by fewer active buyers, lower order value, weaker retention, or refund exposure?
+3. Which regions, products, channels, and platforms contributed most to growth and risk?
+4. How did refund behavior affect customer experience and revenue quality?
+5. Did the loyalty program improve long-term customer value?
+6. What metrics should Plug Tech track to monitor sustainable growth?
 
-
-
-
-<details open>
-<summary><b>Table of Contents</b></summary>
-
-- [1. Executive Summary](#1-executive-summary)
-
-- [2. Key Insights](#2-key-insights)
-  - [Historical & Seasonal Trends](#historical--seasonal-trends)
-  - [Regional Performance](#regional-performance)
-  - [Refund & Customer Experience](#refund--customer-experience)
-  - [Loyalty Program](#loyalty-program)
-
-- [3. Recommendations](#3-recommendations)
-- [Appendix](#appendix)
-</details>
+</details>   
 
 
 ## 1. Executive Summary
 
 <img src="pic/Revenue%20Growth.png" alt="Revenue Growth" width="800">
 
-From 2019 to 2022, Plug Tech generated $28M in total sales across 108K orders, with an overall average order value (AOV) of $260 per order.
+From 2019 to 2022, Plug Tech generated $28.11M in GMV across 108,124 valid orders. After excluding refunded orders, the company generated $25.88M in net revenue, with 102,747 non-refunded orders and 83,242 active buyers.
 
-- Revenue peaked in 2020, reaching approximately $10M as order volume increased to 34K orders. This growth was supported by strong demand for key products, especially MacBook Air, which increased by 384% from 2019 to 2020. March 2020 recorded the strongest month-over-month sales growth during the analysis period, with sales increasing by 50%. This spike may have been influenced by increased consumer electronics demand during COVID-19 lockdowns.
-  
-- After 2020, Plug Tech struggled to sustain peak performance. Revenue declined by 10% in 2021 and by 46% in 2022, while both AOV and order volume followed a similar downward trend. This suggests that the post-2020 decline was driven by both weaker transaction volume and lower customer spending per order.
-  
-- The loyalty program showed promising signs of customer value improvement. While non-loyalty customers initially outperformed loyalty members in sales and AOV, loyalty customers became more competitive in later years, with stronger performance across sales, order volume, and AOV. However, loyalty program ROI cannot be fully confirmed without additional retention, repeat-purchase, and customer acquisition cost metrics.
+•	Revenue peaked in 2020: GMV reached $10.16M, supported by a sharp increase in order volume and higher AOV. By 2022, GMV had declined to $4.96M, indicating that the business struggled to sustain peak demand.
 
+•	North Star Metric performance weakened in 2022. Average WAPC increased from 258 in 2019 to 565 in 2021, then fell to 363 in 2022.
 
+•	Customer activity was heavily acquisition-driven. New active buyers made up the majority of WAPC, while returning and reactivated buyers represented a relatively small share of weekly activity.
 
+•	Retention was weak. Month 1 cohort retention was approximately 1.1%, and Month 3 retention declined below 0.5%, indicating limited short-term repeat purchasing after the first order.
 
-## 2. Key Insights
+•	Refunds represented 4.97% of orders but created $2.23M in revenue loss. Refund exposure was concentrated in premium electronics, especially laptops.
 
-### Historical & Seasonal Trends
-
-#### A. Yearly Trend
-
-<img src="pic/Growth%20Trend.png" alt="Growth Trend" width="900">
-
-- Plug Tech experienced strong growth in 2020, with revenue increasing from $3.87M to $10.16M. This growth was driven by both higher order volume and higher AOV, indicating that the company was acquiring more transactions while also generating higher-value purchases.
-
-- In 2021, order count continued to grow by 6%, but revenue declined by 10% as AOV dropped from $300 to $255. This suggests that growth became more volume-driven and less value-driven, potentially due to a shift toward lower-priced products or reduced premium-product demand.
-
-- By 2022, revenue fell another 46%, while order count declined by 40% and AOV returned to $230, similar to 2019 levels. This indicates a broader business slowdown driven by both fewer orders and lower transaction value.
-
-**Business Implication**
-
-Revenue performance was strongest when both order volume and AOV increased together in 2020. The post-2020 decline suggests Plug Tech should investigate whether the slowdown was driven by weaker customer retention, lower premium-product sales, product mix changes, or reduced market demand.
+•	The loyalty program showed some positive recent value signals, but AOV alone is not enough to prove loyalty ROI. The business should also track retention, repeat purchase rate, orders per buyer, CLV, and CAC.
 
 
-#### B. Monthly Trend
+## 2. Core KPI Table
 
-<img src="pic/Monthly%20Trend.png" alt="Monthly Trend" width="900">
+The KPI table below summarizes the core business metrics used throughout the report.
+
+| KPI | Result |
+|---|---:|
+| GMV | $28.11M |
+| Net Revenue | $25.88M |
+| Total Orders | 108,124 |
+| Non-Refunded Orders | 102,747 |
+| Active Buyers | 83,242 |
+| Average Order Value | $239.34 |
+| AOV on Non-Refunded Orders | $251.86 |
+| Net Revenue per Buyer | $310.88 |
+| Refunded Orders | 5,377 |
+| Refund Rate | 4.97% |
+| Refund Revenue Loss | $2.23M |
+
+*Data note: Three records with missing purchase timestamps were excluded from time-based analysis, leaving 108,124 valid orders for the 2019–2022 reporting period.*
+
+
+## Yearly KPI Breakdown
+
+| Year | GMV | Net Revenue | Orders | Active Buyers | AOV | Net Revenue / Buyer |
+|---:|---:|---:|---:|---:|---:|---:|
+| 2019 | $3.87M | $3.50M | 16,850 | 12,952 | $207.56 | $270.03 |
+| 2020 | $10.16M | $8.81M | 33,851 | 25,212 | $260.21 | $349.37 |
+| 2021 | $9.13M | $8.61M | 35,858 | 28,797 | $240.24 | $299.15 |
+| 2022 | $4.96M | $4.96M | 21,565 | 18,528 | $229.89 | $267.57 |
+
+
+<img src="pic/YearlyKPI.png" alt="YearlyKPI" width="900">
+
+
+## 3. North Star Metric Trend Analysis
+
+Plug Tech’s proposed North Star Metric is Weekly Active Purchasing Customers (WAPC), defined as the number of unique customers who place at least one non-refunded order in a given week.
+This metric tracks real customer purchasing activity and helps separate healthy customer growth from short-term revenue spikes driven by pricing, product mix, or one-time promotions.
+
+<img src="pic/Northstar.png" alt="Northstar" width="900">
+
+| Metric | Value |
+|---|---:|
+| Average WAPC | 423 |
+| Median WAPC | 485 |
+| Peak WAPC | 658 |
+| Lowest WAPC | 128 |
+
+<img src="pic/AverageWAPC.png" alt="AverageWAPC" width="900">
+
+Average WAPC almost doubled from 258 in 2019 to 504 in 2020, then peaked at 565 in 2021. In 2022, WAPC declined to 363, indicating that the slowdown was not only a revenue issue but also a customer activity issue.
+
+### WAPC Driver Breakdown
+
+WAPC was decomposed into new active buyers, returning active buyers, and reactivated buyers. This helps identify whether active customer growth came from acquisition, retention, or win-back activity.
+
+| Year | New Active Buyers | Returning Active Buyers | Reactivated Buyers |
+|---:|---:|---:|---:|
+| 2019 | 248 | 8 | 2 |
+| 2020 | 476 | 16 | 13 |
+| 2021 | 534 | 12 | 19 |
+| 2022 | 339 | 7 | 17 |
+
+<img src="pic/WAPCbuyer.png" alt="WAPCbuyer" width="900">
+
+Key insight: WAPC was driven mostly by new active buyers. This means Plug Tech’s growth was highly acquisition-driven. When new buyer acquisition weakened in 2022, overall WAPC declined significantly.
+
+## 4. Customer Lifecycle Analysis
+Customer lifecycle analysis segments buyers into new, retained, reactivated, and returning buyers. Non-refunded orders are used to focus on successful purchase behavior.
+
+| Year | Active Buyers | New Buyers | Retained Buyers | Reactivated Buyers | Returning Buyers |
+|---:|---:|---:|---:|---:|---:|
+| 2019 | 1,115 | 1,079 | 13 | 10 | 13 |
+| 2020 | 2,170 | 2,060 | 28 | 56 | 26 |
+| 2021 | 2,449 | 2,324 | 20 | 83 | 22 |
+| 2022 | 1,573 | 1,474 | 13 | 74 | 12 |
+
+Plug Tech’s active buyer base was dominated by new buyers. Retained and reactivated buyers remained a much smaller portion of monthly activity, indicating that the business relied more on acquisition than repeat purchasing.
 
 
 
-- **December** was the strongest revenue and order-volume month, generating $2.85M in revenue and 10,791 orders. This suggests that year-end demand and holiday shopping were major drivers of sales activity.
+## Regional Performance Analysis
 
-- **September–October** showed stronger transaction quality, with AOV peaking in October at $272. Although October had lower order volume, its higher AOV suggests customers were purchasing higher-value products during the fall period.
-
-- **February** was the weakest month, with the lowest revenue at $1.91M and the largest monthly declines in both revenue and orders. This likely reflects a post-holiday slowdown after peak year-end demand.
-
-**Business Implication**
-
-Plug Tech’s sales performance is seasonal. The business should prioritize inventory planning, promotions, and campaign timing around Q4 and back-to-school/fall periods, while using targeted offers to offset the February demand drop.
-
-
-#### C. Seasonal Trend
-
-- **Winter** was the strongest season by revenue and order volume, generating $7.32M in revenue and 28,039 orders, likely supported by holiday shopping and year-end promotions.
-
-- **Autumn** generated the highest AOV at $266.38, despite having the lowest order count. This indicates a higher-value product mix and stronger revenue efficiency during the fall period.
-
-Overall, seasonality had a moderate impact on sales performance, with demand strongest in winter and transaction value strongest in autumn.
-
-### Regional Performance
+Regional analysis evaluates revenue contribution, AOV, order volume, refund risk, delivery time, and product preferences by geography.
 
 <img src="pic/Country%20List.png" alt="Country List" width="700">
 
 <img src="pic/Geographical%20Trend.png" alt="Geographical" width="700">
 
-- **North America** generated 52% of total revenue, making it Plug Tech’s largest regional market. The United States was the main driver, contributing $13.3M in revenue and 47% of total orders, creating a clear dependence on the U.S. market.
+<img src="pic/NA.png" alt="NA" width="900">
 
-- **Latin America** was the weakest region, contributing only 6% of revenue, indicating lower market penetration and limited scale compared with other regions.
+North America generated over half of net revenue, while APAC had the highest AOV. This creates two strategic priorities: defend the North American revenue base and develop high-AOV opportunities in markets such as Japan.
 
-- **Japan** recorded the highest AOV at $393, despite contributing only 4% of orders. This suggests Japan may represent a premium-product opportunity where customers purchase higher-value items, even though order volume remains relatively low.
+## Channel & Platform Performance Analysis
+
+Because the dataset does not include marketing spend, CAC, or ad cost, this analysis cannot calculate true CAC or ROAS. Channel quality is evaluated using new buyers, net revenue, AOV, repeat purchase rate, and refund rate.
+
+| First Channel | New Buyers | Repeat Purchase Rate | 30-Day Repeat Rate | AOV | Refund Rate |
+|---|---:|---:|---:|---:|---:|
+| Direct | 64,081 | 6.2% | 1.4% | $268.23 | 5.0% |
+| Email | 14,832 | 2.8% | 0.8% | $174.80 | 4.8% |
+| Affiliate | 2,146 | 7.6% | 1.2% | $293.53 | 4.8% |
+| Unknown | 1,190 | 2.5% | 0.6% | $235.57 | 2.5% |
+| Social Media | 993 | 4.8% | 0.3% | $222.88 | 7.6% |
+
+<img src="pic/channel.png" alt="NA" width="900">
+
+Direct traffic generated most net revenue and new buyers, creating channel concentration risk. Affiliate had the strongest customer-quality signal, with the highest repeat rate and AOV, but at smaller scale. Email had meaningful volume but weaker repeat behavior.
+
+
+### Website vs Mobile App
+
+| Platform | New Buyers | Net Revenue | Revenue Share | AOV | Repeat Rate | Refund Rate |
+|---|---:|---:|---:|---:|---:|---:|
+| Website | 67,702 | $25.05M | 96.8% | $296.01 | 6.5% | 5.6% |
+| Mobile App | 15,540 | $832K | 3.2% | $45.88 | 1.5% | 2.1% |
 
 
 
-### Refund & Customer Experience
+<img src="pic/websitevsmobile.png" alt="websitevsmobile" width="900">
+
+The website dominated business performance, generating almost all net revenue and attracting higher-value customers. The mobile app had lower AOV and repeat behavior, likely due to its lower-priced product mix.
+
+
+## Refund & Revenue Quality Analysis
+
+<img src="pic/laptoprefund.png" alt="laptoprefund" width="900">
 
 <img src="pic/Refund%20Rate.png" alt="Refund Rate" width="700">
 
-- Plug Tech recorded an overall 5% refund rate, representing 5,377 refunded orders. While the overall refund level does not appear unusually high, refunds still create revenue leakage and can negatively affect customer experience.
+Laptop products had the highest refund risk and generated about half of total refund revenue loss. This suggests product expectations, product quality, fulfillment experience, or post-purchase support should be reviewed for premium laptop products.
 
-- Refund exposure was concentrated in premium electronics. ThinkPad Laptop and MacBook Air Laptop showed the highest product-level refund rates at 12% and 11%, indicating higher return risk among laptop products.
 
-- Apple-related products also contributed meaningful refund exposure, with Apple iPhone at 8% and Apple AirPods Headphones at 5%. This suggests that premium products should be monitored closely for product quality, customer expectations, and return reasons.‘
 
-- Refund rates remained relatively stable across regions, suggesting that refund behavior was more product-driven than geography-driven.
-
-### Loyalty Program
-
-<img src="pic/Loyalty%20Program.png" alt="Loyalty Program" width="700">
-
-- Loyalty AOV increased gradually over time, while Non-Loyalty AOV declined after 2020, suggesting stronger long-term customer value among enrolled members.
-- By mid-2021, Loyalty customers began outperforming Non-Loyalty customers in AOV, indicating improved spending consistency and stronger retention potential.
-- Although trends appear positive, loyalty ROI cannot be fully confirmed without retention, CAC, or repeat-purchase metrics.
 
 ## 3. Recommendations
 
-### For Marketing Team
+| Owner | Recommendation | Rationale | KPI to Track |
+|---|---|---|---|
+| Marketing | Launch seasonal campaigns earlier for Q4 and back-to-school periods. | September, November, and December showed strong revenue, order volume, and AOV. | WAPC, Net Revenue, AOV, Orders |
+| Marketing | Test targeted campaigns for high-AOV premium products. | Products such as Apple iPhone had high AOV but low revenue contribution. | AOV, Net Revenue, Refund Rate |
+| Marketing | Expand localized campaigns in Japan. | Japan had the highest AOV among major countries and lower refund risk. | Orders, Net Revenue, AOV, WAPC |
+| CRM / Loyalty | Shift from acquisition-only growth to lifecycle marketing. | WAPC and cohort retention show weak repeat-purchase behavior. | Repeat Purchase Rate, Month 1 Retention, WAPC |
+| CRM / Loyalty | Evaluate loyalty program ROI more rigorously. | AOV signals alone do not prove long-term loyalty value. | CLV, Orders per Buyer, Retention, CAC |
+| Product | Investigate high-refund laptop products. | Laptop category had the highest refund rate and refund revenue loss. | Refund Rate, Refund Loss, Product NPS |
+| Product | Prioritize high-performing products with manageable refund risk. | Revenue and refund analysis can identify profitable product focus areas. | Net Revenue, Refund Rate, Margin |
+| Strategy | Reduce geographic and channel concentration risk. | North America and direct traffic account for a large share of revenue. | Revenue Share, WAPC by Region, WAPC by Channel |
+| Operations | Maintain a reliable 7-day delivery experience and monitor delayed orders. | Delivery time was stable but orders beyond 8–10 days should be monitored. | Median Delivery Time, Delay Rate, Refund Rate |
 
-- **Launch Q4 and Back-to-School Campaigns Earlier**: September, November, and December consistently showed strong revenue, order volume, and AOV performance. Marketing should start campaigns earlier to capture demand before peak months and extend sales momentum.
-
-- **Test targeted campaigns for high-AOV premium products**: Products such as Apple iPhone had high AOV but low revenue contribution. Marketing should test personalized email campaigns, limited-time bundles, or premium-product offers to determine whether these products can drive profitable growth.
-
-- **Capitalize on Japan's High AOV ($393)**: Japan recorded the highest AOV among top revenue-generating countries but contributed a relatively small share of orders. Localized messaging and region-specific offers could help convert Japan into a stronger premium-product market.
-
-
-
-### For Product Team
-
-- **Investigate high-refund laptop products**: MacBook Air and ThinkPad showed elevated refund rates, suggesting potential issues with product expectations, fulfillment, product descriptions, or post-purchase experience. Reducing avoidable refunds can protect revenue quality and customer satisfaction.
-- **Prioritize high-performing products with manageable refund risk**: Products such as gaming monitors and Apple AirPods generated strong revenue while maintaining more manageable refund levels. These products should receive stronger inventory support, bundling opportunities, and promotional focus.
-- **Reassess low-performing SKUs**: Products with minimal revenue contribution should be reviewed for inventory reduction, repositioning, or removal from promotional focus to improve product mix efficiency.
-  
-
-
-
-### For Leadership / Strategy Team
-
-- **Reduce geographic concentration risk**: North America contributed 52% of total revenue, creating dependence on one major region. Leadership should maintain the North American base while expanding growth opportunities in underpenetrated regions such as APAC and LATAM.
-
-- **Evaluate loyalty program ROI more rigorously**: Loyalty customers showed stronger AOV stability over time, but ROI cannot be fully confirmed without repeat-purchase rate, retention, CLV, and acquisition cost metrics. Leadership should continue monitoring whether the program improves long-term customer value.
-
-- **Use North Star Metrics to monitor business health**: In addition to revenue, Plug Tech should track Weekly Active Purchasing Customers, repeat purchase rate, AOV, refund rate, and net revenue per buyer to understand whether growth is driven by more active customers, higher spending, or better retention.
-
-
+The highest priority is to improve customer retention and repeat purchase behavior. Revenue recovery should not depend only on new customer acquisition; it should be supported by stronger lifecycle marketing, loyalty performance measurement, premium-product optimization, and refund reduction.
 
 ## Appendix
 
+Data Scope:
 
-  Plug Tech's database structure consists of four tables: orders, customers, geo_lookup and order_status, including near 88,000 customers and over 108,000 transactions.
-  
-  - Check out the full Excel [spreadsheet](Excel/cleaned_data.xlsx)
-
+Plug Tech's database structure consists of four tables: orders, customers, geo_lookup and order_status, including near 88,000 customers and over 108,000 transactions.
+- Check out the full Excel [spreadsheet](Excel/cleaned_data.xlsx)
 - Check out Data Structure & [ERD](pic/ERD.png)
 - For more details about the dataset description and cleaning process check out the [Dataset Summary & Issue Log](Excel/PlugTech_Dataset_Report.pdf)
-
 - See more of my [exploration](SQL/PlugTech_Exploration.sql) and [analysis](SQL/PlugTech_Analysis.sql) in SQL.
 
+Key Definitions：
+
+| Metric | Definition |
+|---|---|
+| WAPC | Unique customers with at least one non-refunded order in a given week |
+| GMV | SUM(USD_PRICE) across all valid orders |
+| Net Revenue | SUM(USD_PRICE_MOD) for non-refunded orders |
+| AOV | Net Revenue divided by total orders |
+| Active Buyers | Unique USER_ID values with at least one non-refunded order |
+| New Buyers | Customers whose first non-refunded purchase occurred in the period |
+| Retained Buyers | Customers who purchased in the prior period and purchased again in the current period |
+| Reactivated Buyers | Customers who had purchased before, became inactive for more than 90 days, then purchased again |
+| Repeat Purchase Rate | Share of buyers who made another purchase on a later date |
+| Refund Rate | Refunded orders divided by total orders |
+| Refund Revenue Loss | SUM(USD_PRICE_MOD) for refunded orders |
+| Purchase-to-Delivery Time | DELIVERY_TS minus PURCHASE_TS |
+
+
+Limitation：
+
+•	The dataset does not include marketing spend, so CAC and ROAS cannot be calculated.
+
+•	AOV and order behavior alone cannot prove loyalty program ROI; retention, CLV, and acquisition cost metrics are needed.
+
+•	Refund timing fields appear unusual in some cases, so refund date lag should be validated before using it for return-window analysis.
+
+•	Correlation does not imply causation. Changes in revenue, retention, or refund behavior may require controlled tests or additional operational data.
 
