@@ -1,12 +1,22 @@
 
-# Plug Tech E-Commerce Performance Analysis
+<h1 align="center">
+  <img src="pic/logo.png" width="120" alt="Plug Tech Logo">
+  Plug Tech E-Commerce Performance Analysis
+</h1>
 
+## Core KPI Scorecard 
+<table>
+  <tr>
+    <td align="center"><b>GMV</b><br><br><strong>$28.11M</strong></td>
+    <td align="center"><b>Net Revenue</b><br><br><strong>$25.88M</strong></td>
+    <td align="center"><b>Total Orders</b><br><br><strong>108,124</strong></td>
+    <td align="center"><b>Active Buyers</b><br><br><strong>83,242</strong></td>
+    <td align="center"><b>Avg WAPC</b><br><br><strong>423</strong></td>
+    <td align="center"><b>Refund Rate</b><br><br><strong>4.97%</strong></td>
+  </tr>
+</table>
 
 # Company Introduction
-
-<p align="center">
-  <img src="pic/Company%20logo1.png" alt="Company Logo" width="600">
-</p>
 
 Plug Tech is a global e-commerce retailer specializing in consumer electronics. Through its online platform, the company sells products from major technology brands such as Apple, Samsung, and Lenovo, serving customers across North America, EMEA, APAC, and Latin America.
 
