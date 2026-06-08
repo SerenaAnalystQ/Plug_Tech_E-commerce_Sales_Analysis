@@ -4,6 +4,8 @@
   Plug Tech E-Commerce Performance Analysis
 </h1>
 
+
+
 ## Core KPI Scorecard 
 <table>
   <tr>
@@ -53,6 +55,22 @@ Leadership identified several concerns:
 
 </details>   
 
+
+<details open>
+<summary><strong>Table of Contents</strong></summary>
+<br /> 
+  
+1. [Executive Summary](#1-executive-summary)
+2. [Core KPI Table](#2-core-kpi-table)
+3. [North Star Metric Trend Analysis](#3-north-star-metric-trend-analysis)
+4. [Customer Lifecycle Analysis](#4-customer-lifecycle-analysis)
+5. [Regional Performance Analysis](#5-regional-performance-analysis)
+6. [Channel & Platform Performance Analysis](#6-channel--platform-performance-analysis)
+7. [Refund & Revenue Quality Analysis](#7-refund--revenue-quality-analysis)
+8. [Recommendations](#8-recommendations)
+9. [Appendix](#appendix)
+
+</details>   
 
 ## 1. Executive Summary
 
@@ -104,7 +122,7 @@ The KPI table below summarizes the core business metrics used throughout the rep
 | 2022 | $4.96M | $4.96M | 21,565 | 18,528 | $229.89 | $267.57 |
 
 
-<img src="pic/YearlyKPI.png" alt="YearlyKPI" width="900">
+<img src="pic/YearlyKPI.png" alt="YearlyKPI" width="800">
 
 
 ## 3. North Star Metric Trend Analysis
@@ -112,7 +130,7 @@ The KPI table below summarizes the core business metrics used throughout the rep
 Plug Tech’s proposed North Star Metric is Weekly Active Purchasing Customers (WAPC), defined as the number of unique customers who place at least one non-refunded order in a given week.
 This metric tracks real customer purchasing activity and helps separate healthy customer growth from short-term revenue spikes driven by pricing, product mix, or one-time promotions.
 
-<img src="pic/Northstar.png" alt="Northstar" width="900">
+<img src="pic/Northstar.png" alt="Northstar" width="700">
 
 | Metric | Value |
 |---|---:|
@@ -121,7 +139,7 @@ This metric tracks real customer purchasing activity and helps separate healthy 
 | Peak WAPC | 658 |
 | Lowest WAPC | 128 |
 
-<img src="pic/AverageWAPC.png" alt="AverageWAPC" width="900">
+<img src="pic/AverageWAPC.png" alt="AverageWAPC" width="800">
 
 Average WAPC almost doubled from 258 in 2019 to 504 in 2020, then peaked at 565 in 2021. In 2022, WAPC declined to 363, indicating that the slowdown was not only a revenue issue but also a customer activity issue.
 
@@ -154,19 +172,17 @@ Plug Tech’s active buyer base was dominated by new buyers. Retained and reacti
 
 
 
-## Regional Performance Analysis
+## 5. Regional Performance Analysis
 
 Regional analysis evaluates revenue contribution, AOV, order volume, refund risk, delivery time, and product preferences by geography.
 
-<img src="pic/Country%20List.png" alt="Country List" width="700">
+<img src="pic/Country%20List.png" alt="Country List" width="800">
 
-<img src="pic/Geographical%20Trend.png" alt="Geographical" width="700">
-
-<img src="pic/NA.png" alt="NA" width="900">
+<img src="pic/Geographical%20Trend.png" alt="Geographical" width="800">
 
 North America generated over half of net revenue, while APAC had the highest AOV. This creates two strategic priorities: defend the North American revenue base and develop high-AOV opportunities in markets such as Japan.
 
-## Channel & Platform Performance Analysis
+## 6. Channel & Platform Performance Analysis
 
 Because the dataset does not include marketing spend, CAC, or ad cost, this analysis cannot calculate true CAC or ROAS. Channel quality is evaluated using new buyers, net revenue, AOV, repeat purchase rate, and refund rate.
 
@@ -178,7 +194,7 @@ Because the dataset does not include marketing spend, CAC, or ad cost, this anal
 | Unknown | 1,190 | 2.5% | 0.6% | $235.57 | 2.5% |
 | Social Media | 993 | 4.8% | 0.3% | $222.88 | 7.6% |
 
-<img src="pic/channel.png" alt="NA" width="900">
+<img src="pic/channel.png" alt="NA" width="800">
 
 Direct traffic generated most net revenue and new buyers, creating channel concentration risk. Affiliate had the strongest customer-quality signal, with the highest repeat rate and AOV, but at smaller scale. Email had meaningful volume but weaker repeat behavior.
 
@@ -192,23 +208,23 @@ Direct traffic generated most net revenue and new buyers, creating channel conce
 
 
 
-<img src="pic/websitevsmobile.png" alt="websitevsmobile" width="900">
+<img src="pic/websitevsmobile.png" alt="websitevsmobile" width="800">
 
 The website dominated business performance, generating almost all net revenue and attracting higher-value customers. The mobile app had lower AOV and repeat behavior, likely due to its lower-priced product mix.
 
 
-## Refund & Revenue Quality Analysis
+## 7. Refund & Revenue Quality Analysis
 
-<img src="pic/laptoprefund.png" alt="laptoprefund" width="900">
+<img src="pic/laptoprefund.png" alt="laptoprefund" width="800">
 
-<img src="pic/Refund%20Rate.png" alt="Refund Rate" width="700">
+<img src="pic/Refund%20Rate.png" alt="Refund Rate" width="600">
 
 Laptop products had the highest refund risk and generated about half of total refund revenue loss. This suggests product expectations, product quality, fulfillment experience, or post-purchase support should be reviewed for premium laptop products.
 
 
 
 
-## 3. Recommendations
+## 8. Recommendations
 
 | Owner | Recommendation | Rationale | KPI to Track |
 |---|---|---|---|
